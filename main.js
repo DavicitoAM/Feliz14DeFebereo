@@ -11,129 +11,129 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Describe lo que siento y como fue",
             desc: "El momento exacto en que supe que eras tú.",
             link: "https://open.spotify.com/intl-es/track/28Ct4qwkQXY2W5yyNCLuVI?si=f308e15a1ea54a9d",
-            image: "/assets/NuestraCancion.jpeg" // REEMPLAZA con tu imagen real (ej. "img/letras/cancion1.jpg")
+            image: "NuestraCancion.jpeg" // REEMPLAZA con tu imagen real (ej. "img/letras/cancion1.jpg")
         },
         {
             title: "No fue casualidad coincidir contigo",
             desc: "si estamos destinados a estar unidos",
             link: "https://open.spotify.com/intl-es/track/3UI9I3e1g1y5T3SMfdgfGO?si=fe1d6e4960584317",
-            image: "/assets/Colgando.jpeg" // REEMPLAZA
+            image: "Colgando.jpeg" // REEMPLAZA
         },
         {
             title: "Siempre seras mi persona favorita",
             desc: "siempre quiero que seas tú.",
             link: "https://open.spotify.com/intl-es/track/28Ct4qwkQXY2W5yyNCLuVI?si=30ca349d488f48c7",
-            image: "/assets/SoloTu.jpeg" // REEMPLAZA
+            image: "SoloTu.jpeg" // REEMPLAZA
         },
         {
             title: "¿Por qué te amo así?",
             desc: "¿Acaso está mal sentir demasiado?",
             link: "https://open.spotify.com/intl-es/track/2bvO1KXbUd4vySCWGNqIIa?si=3cd7a66c279a42e4",
-            image: "/assets/Amarte.jpeg" // REEMPLAZA
+            image: "Amarte.jpeg" // REEMPLAZA
         },
         {
             title: "Tú",
             desc: "Siempre serás tú.",
             link: "https://open.spotify.com/intl-es/track/2rYjkYQWpn66nf5Ihk7SHJ?si=ac780dd83a764797",
-            image: "/assets/EresTu.jpeg" // REEMPLAZA
+            image: "EresTu.jpeg" // REEMPLAZA
         },
 
         {
             title: "Nunca habrá",
             desc: "Cosa más bella que tú, cosa más linda que tú.",
             link: "https://open.spotify.com/intl-es/track/1EZypwk0xcj64ZLAglhLs2?si=3fa7ec76ba1e4c38",
-            image: "/assets/Gracias.jpeg" // REEMPLAZA
+            image: "Gracias.jpeg" // REEMPLAZA
         },
         {
             title: "No tengo razón para dudarlo",
             desc: "Elijo quedarme contigo.",
             link: "https://open.spotify.com/intl-es/track/66iygyOSvvoQQsKJ1vEXfT?si=d11af1b5add74758",
-            image: "/assets/Elegirte.jpeg" // REEMPLAZA
+            image: "Elegirte.jpeg" // REEMPLAZA
         },
         {
             title: "Quiero compartir contigo",
             desc: "Todo de mí, todo de ti.",
             link: "https://open.spotify.com/intl-es/track/29Ro9cW0qbFdXGmrJ3aNKs?si=c1a7c5a2b64b413a",
-            image: "/assets/Compartir.jpeg" // REEMPLAZA
+            image: "Compartir.jpeg" // REEMPLAZA
         },
         {
             title: "A Dios le pido",
             desc: "Seguir estando contigo.",
             link: "https://open.spotify.com/intl-es/track/129lYDVKnWtlJc2PZJviuA?si=f2c8a9ad69434dcb",
-            image: "/assets/LePido.jpeg" // REEMPLAZA
+            image: "LePido.jpeg" // REEMPLAZA
         },
         {
             title: "Es que somos tal para cual",
             desc: "Nada ni nadie lo puede negar",
             link: "https://open.spotify.com/intl-es/track/0svWUjefj6RBlIQxA3VCvx?si=5a23a017e98a462f",
-            image: "/assets/TeNecesito.jpeg" // REEMPLAZA
+            image: "TeNecesito.jpeg" // REEMPLAZA
         },
         {
             title: "Te lo digo de verdad",
             desc: "Eres lo mas bello que me ha pasado en la vida.",
             link: "https://open.spotify.com/intl-es/track/2PZtKB8fDoDGLot27oUnWH?si=f9914880e57a43aa",
-            image: "/assets/OroDeLey.jpeg" // REEMPLAZA
+            image: "OroDeLey.jpeg" // REEMPLAZA
         },
         {
             title: "Te quiero, te quiero, te quiero",
             desc: "y no puedo dejar dejar de pensar en ti",
             link: "https://open.spotify.com/intl-es/track/6tu2FHuKL9C8pwNrityweQ?si=d14185eb73ec4ca4",
-            image: "/assets/TeQuiero.jpeg" // REEMPLAZA
+            image: "TeQuiero.jpeg" // REEMPLAZA
         },
         {
             title: "No hay bella melodia en que no exitas tú",
             desc: "Te has convertido en parte de mi",
             link: "https://open.spotify.com/intl-es/track/03oCjV73Utu9KpXrgcqoTJ?si=d5c30c415f67433c",
-            image: "/assets/Contigo.jpeg" // REEMPLAZA
+            image: "Contigo.jpeg" // REEMPLAZA
         },
         {
             title: "Si me siento más tuyo que de mi mismo,",
             desc: "¿Cómo quieres que no te ame?.",
             link: "https://open.spotify.com/intl-es/track/098fCi4s5RXgbwufb9086i?si=65522189f9634726",
-            image: "/assets/Privilegio.jpeg" // REEMPLAZA
+            image: "Privilegio.jpeg" // REEMPLAZA
         },
         {
             title: "Me diste ganas de extrañarte",
             desc: "sin ningun motivo",
             link: "https://open.spotify.com/intl-es/track/5QSYWruQQ7kBCHScI4xJ9g?si=18c186eef3fc4685",
-            image: "/assets/Agua.jpeg" // REEMPLAZA
+            image: "Agua.jpeg" // REEMPLAZA
         },
         {
             title: "Todo se ha ordenado",
             desc: "Desde que llegaste a mi vida todo cambió",
             link: "https://open.spotify.com/intl-es/track/5mE03INQwKsRKxFsrzlvNY?si=5abaa6184a684186",
-            image: "/assets/MiVidaCambio.jpeg" // REEMPLAZA
+            image: "MiVidaCambio.jpeg" // REEMPLAZA
         },
         {
             title: "Qué puedo decirte que no te he dicho ",
             desc: "Todo se trata de ti",
             link: "https://open.spotify.com/intl-es/track/0MHSnVk2CrGP8hIkxpxwMJ?si=0d3eb4c055224c02",
-            image: "/assets/Usted.jpeg" // REEMPLAZA
+            image: "Usted.jpeg" // REEMPLAZA
         },
 
         {
             title: "No es fácil estar contigo lejos de ti",
             desc: "pero aún sin estar aquí, puedes hacer lo que quieras de mi",
             link: "https://open.spotify.com/intl-es/track/00kIWJu9IHiQ6i0qJAU0Z9?si=2368615d19f74872",
-            image: "/assets/TeVi.jpeg" // REEMPLAZA
+            image: "TeVi.jpeg" // REEMPLAZA
         },
         {
             title: "Siempre te extraño, ¿cómo no hacerlo?",
             desc: "Cierro mis ojos y lo que veo eres tú",
             link: "https://open.spotify.com/intl-es/album/7rItmPh0tZpMKcFXBScaU8?si=vTaBYjSQTmOyNpDgvu5wrg",
-            image: "/assets/Small.jpeg" // REEMPLAZA
+            image: "Small.jpeg" // REEMPLAZA
         },
         {
             title: "Donde sea que miraba ahí estabas tú",
             desc: "Si nadie lo buscó y nadie lo planeó, entonces es porque eras para mi y yo para ti",
             link: "https://open.spotify.com/intl-es/track/2G74yhtIMW8tJY5I83dS4Z?si=e6f9f41199474bae",
-            image: "/assets/AmorDelBueno.jpeg" // REEMPLAZA
+            image: "AmorDelBueno.jpeg" // REEMPLAZA
         },
         {
             title: "Debes ser exactamente",
             desc: "Lo que yo siempre soñe",
             link: "https://open.spotify.com/intl-es/track/09QfIIP4NUx4A3thmovb2o?si=62ffde331f414404",
-            image: "/assets/Perfecta.jpeg" // REEMPLAZA
+            image: "Perfecta.jpeg" // REEMPLAZA
         }
         // ... Añade el resto de tus canciones con sus imágenes ...
     ];
@@ -349,4 +349,5 @@ document.addEventListener('DOMContentLoaded', () => {
         // Lógica simple de confeti (opcional)
         console.log("¡Explosión de amor!");
     }
+
 });
